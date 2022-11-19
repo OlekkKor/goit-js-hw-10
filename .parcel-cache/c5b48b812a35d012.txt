@@ -1,4 +1,4 @@
-5154
+5152
 99C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\posthtml-include\node_modules\posthtml-parser\dist133131746477873542 1
 78C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\nullthrows\nullthrows.js.flow133131746476975431 0
 72C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\utility-types\README.md133131746478933699 0
@@ -84,7 +84,7 @@
 90C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\css-tree\lib\syntax\node\ClassSelector.js133131746479247614 0
 64C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\lodash.debounce133132718822803305 1
 63C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\domelementtype133131746478014545 1
-40C:\Users\Alex\Desktop\goit-js-hw-10\dist133133445073500515 1
+40C:\Users\Alex\Desktop\goit-js-hw-10\dist133133555893497691 1
 70C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@parcel\markdown-ansi133131746477198986 1
 65C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\type-fest\source133131746481030702 1
 77C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\css-tree\lib\walker\index.js133131746482365801 0
@@ -167,7 +167,7 @@
 52C:\Users\Alex\Desktop\goit-js-hw-10\src\three.min.js133133441120717782 0
 96C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@parcel\watcher\src\shared\BruteForceBackend.cc133131746476799080 0
 68C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\neo-async\reject.js133132718428874832 0
-50C:\Users\Alex\Desktop\goit-js-hw-10\src\index.html133133444888769927 0
+50C:\Users\Alex\Desktop\goit-js-hw-10\src\index.html133133489669934546 0
 69C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\term-size\index.d.ts133131746478338647 0
 63C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\dotenv\LICENSE133131746476503815 0
 54C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\clone133131746477337926 1
@@ -179,7 +179,7 @@
 80C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\caniuse-lite\data\regions\SY.js133131746489562026 0
 66C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\parcel\lib\cli.js133131746476879571 0
 53C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@swc133131746463552667 1
-48C:\Users\Alex\Desktop\goit-js-hw-10\src\index.js133133442508820108 0
+48C:\Users\Alex\Desktop\goit-js-hw-10\src\index.js133133557104473194 0
 77C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\commander\typings\index.d.ts133131746478376219 0
 84C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\svgo\plugins\convertStyleToAttrs.js133131746479932799 0
 62C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\node-releases133131746477385584 1
@@ -200,7 +200,7 @@
 82C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@parcel\packager-raw\package.json133131746476799080 0
 73C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\nth-check\lib\parse.d.ts133131746480222118 0
 100C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133131746481030702 0
-54C:\Users\Alex\Desktop\goit-js-hw-10\src\css\styles.css133133434540022055 0
+54C:\Users\Alex\Desktop\goit-js-hw-10\src\css\styles.css133133495611818463 0
 53C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\.bin133132718432326412 1
 66C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\sass\types\logger133131746482642323 1
 108C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.1133131746480108238 0
@@ -1706,7 +1706,7 @@
 70C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\import-fresh\index.js133131746475385461 0
 83C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\simplelightbox\.github\FUNDING.yml133131746483303954 0
 65C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\semver\range.bnf133131746475989574 0
-62C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.97d22a76.js.map133133445072925023 0
+62C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.97d22a76.js.map133133540046240681 0
 99C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\parcel-reporter-clean-dist\src\getFilesToRemove.js133131746477524683 0
 70C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\domutils\package.json133131746478376219 0
 74C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@parcel\types\build-ts.js133131746475481013 0
@@ -1925,7 +1925,6 @@
 75C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\posthtml-include\README.md133131746476613606 0
 102C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\posthtml-include\node_modules\posthtml-parser\license133131746475105354 0
 82C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@parcel\workers\lib\childState.js133131746478014545 0
-58C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.0641b553.js133133445072482214 0
 107C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\posthtml-include\node_modules\posthtml-parser\package.json133131746477128755 0
 104C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\posthtml-include\node_modules\posthtml-parser\readme.md133131746477442667 0
 71C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\minimist\test\proto.js133132718427696199 0
@@ -2273,7 +2272,7 @@
 68C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\ansi-styles\license133131746474998416 0
 73C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@parcel\resolver-default133131746476698073 1
 74C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\neo-async\eachOfSeries.js133132718428285023 0
-58C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.975ef6c8.js133133445073382080 0
+58C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.975ef6c8.js133133555893484914 0
 80C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\caniuse-lite\data\regions\FM.js133131746485614237 0
 72C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\neo-async\eachSeries.js133132718428285023 0
 73C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\neo-async\ensureAsync.js133132718428299122 0
@@ -4359,7 +4358,7 @@
 85C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@parcel\watcher\src\watchman\BSER.hh133131746479710277 0
 84C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@parcel\watcher\src\watchman\IPC.hh133131746480174259 0
 96C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@parcel\watcher\src\watchman\WatchmanBackend.cc133131746478933699 0
-59C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.77a9bc14.css133133445072482214 0
+59C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.77a9bc14.css133133540045419003 0
 96C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@parcel\watcher\src\shared\BruteForceBackend.hh133131746479620579 0
 88C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@parcel\runtime-js\src\helpers\.babelrc133131746475211089 0
 93C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@parcel\runtime-js\lib\helpers\bundle-url.js133131746477362424 0
@@ -5039,7 +5038,7 @@
 105C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@jridgewell\sourcemap-codec\dist\sourcemap-codec.mjs.map133131746476836374 0
 87C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@jridgewell\sourcemap-codec\dist\types133131746478043058 1
 108C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@jridgewell\sourcemap-codec\dist\types\sourcemap-codec.d.ts133131746478096094 0
-51C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.html133133444890394443 0
+51C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.html133133540046355357 0
 76C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@jridgewell\source-map\dist133131746478471428 1
 79C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@jridgewell\source-map\LICENSE133131746475053885 0
 84C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\@jridgewell\source-map\package.json133131746476412514 0
@@ -5145,11 +5144,10 @@
 62C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\.bin\svgo.cmd133131746491695015 0
 62C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\.bin\svgo.ps1133131746491695015 0
 66C:\Users\Alex\Desktop\goit-js-hw-10\node_modules\.bin\uglifyjs.cmd133132718432326412 0
-62C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.0641b553.js.map133133445072674825 0
-63C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.77a9bc14.css.map133133445072674825 0
-62C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.975ef6c8.js.map133133445073483129 0
-58C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.97d22a76.js133133445072787257 0
-58C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.e1fccb40.js133133445073399253 0
-62C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.e1fccb40.js.map133133445073500515 0
+63C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.77a9bc14.css.map133133540045491806 0
+62C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.975ef6c8.js.map133133555893497691 0
+58C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.97d22a76.js133133540046215023 0
+58C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.e1fccb40.js133133540045834429 0
+62C:\Users\Alex\Desktop\goit-js-hw-10\dist\index.e1fccb40.js.map133133540045864362 0
 68C:\Users\Alex\Desktop\goit-js-hw-10\assets\actions-config-step-1.png133131743126896446 0
 53C:\Users\Alex\Desktop\goit-js-hw-10\.github\workflows133131744532386784 1

@@ -23,6 +23,7 @@ inputEl.addEventListener('input', debounce(onInput, DEBOUNCE_DELAY));
       divInfo.innerHTML = '';
       return;
     }
+
     const searchCountry = e.target.value.trim();
     API(searchCountry).then(SuccessFn).catch(ErrorFn);
 
@@ -30,10 +31,10 @@ inputEl.addEventListener('input', debounce(onInput, DEBOUNCE_DELAY));
 
 function SuccessFn(e){
     let count = 0;
+    console.log(e);
+   
 
-    const countryArr = e.map(country => country.name.official)
-
-    if (countryArr.length > 10){
+    if (e.length > 10){
       
       Notiflix.Notify.info(
         'Too many matches found. Please enter a more specific name.'
@@ -41,33 +42,42 @@ function SuccessFn(e){
     }
 
 
-  if (countryArr.length >= 2 && countryArr.length < 10){
+  if (e.length >= 2 && e.length <= 10){
     
-    let countryArray = [];
-    let markUp;
+  
+    divInfo.innerHTML = '';
+    ulEl.innerHTML = '';
+    
 
-    for (let i = 0; i < countryArr.length; i++){
+    const markUp = e.map(country => `<li class="country-item"> <img src = ${country.flags.svg} width="30"> ${country.name.official}</li>`
+    ).join(" ");
 
-      const countryList = `<li class="country-item"> <img src = ${e[i].flags.svg} width="30"> ${countryArr[i]}</li>`;
-      countryArray.push(countryList);
-      markUp = countryArray.join(" ");
-    }
+    
+
     ulEl.insertAdjacentHTML("beforeend", markUp);
   }
 
-  if (countryArr.length === 1){
+  if (e.length === 1){
 
-      const countryItem = `<div class='country'>
-      <h2 class="country-title"><img src=${e[0].flags.svg} width='30' /> ${e[0].name.official}</h2>
-      <div class='info'>
-        <p class="info-item"><strong>Capital: </strong>${e[0].capital}</p>
-        <p class="info-item"><strong>Population: </strong>${e[0].population}</p>
-        <p class="info-item"><strong>Languages: </strong>${Object.values(e[0].languages)}</p>
-      </div>
-    </div>`; 
 
-      divInfo.insertAdjacentHTML("beforeend", countryItem);
-  }
+    const countryArr = [];
+
+      e.forEach(function callbackFn(country, index){
+      countryArr.push(`<div>
+       <h2 class="country-title"><img src=${country.flags.svg} width='30' /> ${country.name.official}</h2>
+       <div>
+       <p class="info-item"><strong>Capital: </strong>${country.capital}</p>
+       <p class="info-item"><strong>Population: </strong>${country.population}</p>
+       <p class="info-item"><strong>Languages: </strong>${Object.values(country.languages)}</p>
+       </div>
+       </div>`);
+      })
+
+
+      divInfo.innerHTML = '';
+      ulEl.innerHTML = '';
+      divInfo.insertAdjacentHTML("beforeend", ...countryArr);
+     }
 
     return;
 }
